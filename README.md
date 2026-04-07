@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagnik150699/Sagnik-Bhattacharya/master/public/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180">
+</p>
+Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
+
 # navigation_starting
 Navigation in Flutter: The Initial Journey 🗺️
 Welcome to the foundational project of the Navigation module, brought to you by Sagnik Bhattacharya and the dedicated team at Coding Liquids. Navigation is the backbone of user experience in any application. This project is designed to give you hands-on experience and a comprehensive understanding of navigation in Flutter.
